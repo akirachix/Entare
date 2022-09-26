@@ -10,7 +10,7 @@ The project requires **python3** and the following python libraries installed:
 
 [OpenCV](https://opencv.org/)
 
-[pNumpy](https://numpy.org/)
+[Numpy](https://numpy.org/)
 
 [dlib](https://github.com/davisking/dlib)
 
