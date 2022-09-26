@@ -10,12 +10,12 @@ The project requires **python3** and the following python libraries installed:
 
 [OpenCV](https://opencv.org/)
 
-Numpy(https://numpy.org/)
+[pNumpy](https://numpy.org/)
 
-dlib(https://github.com/davisking/dlib)
+[dlib](https://github.com/davisking/dlib)
 
 Following are some links to install OpenCV and dlib on Raspbian OS:
 
-[OpenCV](https://github.com/opencv/opencv) - [Raspbian OS](https://learnopencv.com/?s=Raspbian+OS&id=16719)
+[OpenCV](https://github.com/opencv/opencv) || [Raspbian OS](https://learnopencv.com/?s=Raspbian+OS&id=16719)
 
-[Dlib](https://github.com/davisking/dlib) -  [Raspbian OS](https://pyimagesearch.com/2017/05/01/install-dlib-raspberry-pi/)
+[Dlib](https://github.com/davisking/dlib) || [Raspbian OS](https://pyimagesearch.com/2017/05/01/install-dlib-raspberry-pi/)
