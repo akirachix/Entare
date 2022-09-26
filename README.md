@@ -1,4 +1,4 @@
-<h1>**ABOUT THIS PROJECT**</h1>
+<h1>*ABOUT THIS PROJECT*</h1>
  
 This is a computer vision project that aims to improve the efficiency of the lion identification process in the Mara Reserve,in order to protect and balance the ecosytem.The system is trained to identify individual lions based on their whisker spot patterns,classify and cluster the data collected.
 
