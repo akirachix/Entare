@@ -3,7 +3,7 @@ import liona from "./images/liona.jpg";
 import lion2 from "./images/lion2.jpg";
 import lionc from "./images/lionc.jpg";
 import '../components/Solution.css'
-import {FaVideo,FaCamera,FaMehBlank,FaFolder,FaNeuter, IconName  } from 'react-icons/fa';
+import {FaVideo,FaCamera,FaMehBlank,FaFolder,FaNeuter, FaTv,IconName  } from 'react-icons/fa';
 const Solution = ()=>{
     return(
         <div>
@@ -23,24 +23,63 @@ const Solution = ()=>{
     <div className="container-two">
     <h1 className="process">Identification Process</h1>
     <hr/> 
-    <p className="stream">Live Streaming</p>
-   <FaVideo className="video" size={92}/>   
-<p className="word-one" >User will have to start a live stream<br/>on his canon camera in the field</p>
 
-<p className="match">Un Matched Lion</p>
-<p className="word-two" >User will have to start a live stream<br/>on his canon camera in the field</p>
-<FaCamera className="camera" size={92}/>  
+    <div className="icon-one">
+        
+    <h1>Live Streaming</h1>
+    <p>User will have to start a live stream.
+    <br/>The camera will just be a canon camera</p>
+    <FaVideo className="video" size={62}/>   
+   
+    </div>
+    <h1 className="one">1</h1>
+  <div className="icon-two">
+
+  <h1>Unmatched Lion</h1>
+  <p>User will have to start a live stream.
+    <br/>The camera will just be a canon camera</p>
+    <FaCamera className="camera" size={62}/>  
+  </div>
+  <h1 className="four">4</h1>
+
 <div className="icon-three">
-<FaMehBlank className="face" size={92}/>  
-<p className="lion">Matching Lion</p>
-<p className="word-three" >User will have to start a live stream<br/>on his canon camera in the field</p>
+<h1>Matching Lion</h1>
+<p>User will have to start a live stream.
+    <br/>The camera will just be a canon camera</p>
+<FaMehBlank className="face" size={62}/>   
 </div>
-<p className="store">Store in a database</p>
-<p className="word-four" >User will have to start a live stream<br/>on his canon camera in the field</p>
-<FaFolder className="folder" size={92}/>
+<h1 className="two">2</h1>
+
+<div className="icon-four">
+<h1>Store in a Database</h1>
+<p>User will have to start a live stream.
+    <br/>The camera will just be a canon camera</p>
+<FaFolder className="folder" size={62}/>
+</div>
+<h1 className="five">5</h1>
+
 <div className="icon-five">
-<p className="database">Database Comparison</p>
-<FaNeuter className="neuter" size={92}/>
+<h1>Database Comparison</h1>
+<p>User will have to start a live stream.
+    <br/>The camera will just be a canon camera</p>
+    <FaNeuter className="neuter" size={82}/>
+</div>
+<h1 className="three">3</h1>
+
+<div className="icon-six">
+<h1>Review Collected Data</h1> 
+<p>User will have to start a live stream.
+    <br/>The camera will just be a canon camera</p>
+    <FaTv className="tv" size={62}/>
+</div>
+<h1 className="six">6</h1>
+
+
+
+
+
+<div>
+
 </div>
 
 

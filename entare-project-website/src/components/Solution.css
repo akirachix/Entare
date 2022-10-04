@@ -1,5 +1,5 @@
 .container{
-    border: 1px solid green;
+    border: 1px solid  #442505;
     height: 82vh;
     margin-top:186px ;
     background-color: #442505;
@@ -20,8 +20,8 @@
     margin-left: 87px;    
 }
 .container-two{
-    border: 1px solid green;
-    height: 152vh;
+    border: 1px solid #F5F5F5;
+    height: 92vh;
     margin-top: -97px;
     background-color:  #F5F5F5;   
 }
@@ -45,66 +45,137 @@ hr{
     width: 533px;
     color: #E8733A  ;
 }
-.stream{
-    font-size: 23px;
-    margin-top: 48px;
-    margin-left: -596px;
+.one{
+    margin-left: -492px;
+    margin-right: 542px; 
+    margin-top: -75px;
+ 
 }
-.video{
-    margin-top: -19px;
-    margin-left: -963px;
-   
-}
-.word-one{
-    margin-top: -73px;
-    margin-left: -526px; 
-}
-.camera{
-    margin-left: 202px;
-    margin-top: -231px;
-    margin-bottom: -5px;
-}
-.match{
-    font-size: 23px;
-    margin-top:-109px ;
-    margin-left: 519px;
 
+.icon-one h1 {
+    color: #442505;
+    font-weight: 400;   
+    font-size: 26px;
+    margin-left: -532px;
+    margin-top: 52px;   
 }
-.word-two{
-    margin-top: -13px;
-    margin-left: 596px; 
+.icon-one p{
+    margin-top: 5px;
+    margin-left:-482px;
 }
-.icon-three{
-    margin-top: 156px;
-    margin-left: -993px;
+
+.icon-one .video{
+    margin-top: -99px;
+    margin-bottom: 21px;
+    margin-left: -892px;
+    color: #E8733A;
+}
+
+.four{
+    margin-top: -73px;
+    margin-right: 12px;
+}
+.icon-two h1{
+    font-weight: 400; 
+    color: #442505;
+    font-size: 26px;
+    margin-top: -113px;
+    margin-left: 489px;
+}
+.icon-two p{
+    margin-left:531px ;
+}
+
+.icon-two .camera{
+    margin-top: -119px;
+    margin-bottom: 26px;
+    margin-left: 119px;
+    color: #E8733A;
+}
+
+
+.icon-three h1{
+    font-weight: 400; 
+    color: #442505;
+    font-size: 26px;
+    margin-top: 99px;
+    margin-left: -543px;
     
 }
-.lion{
-    font-size: 23px;
-    margin-left: 333px;
-    margin-top: -112px;
+.icon-three p{
+    margin-top: 22px;
+    margin-left: -471px;
+    
 }
-.word-three{
-    margin-left:439px ;
+.icon-three .face{
+    margin-top: -77px;
+    margin-bottom: 24px;
+    margin-left: -897px;
+    color: #E8733A;
 }
-.folder{
-    margin-top: -249px;
-    margin-left: 196px;
+.two{
+    margin-left: -1028px;
+    margin-top: -73px;
 }
-.store{
-    font-size: 23px;
-    margin-top:-77px ;
-    margin-bottom: 62px;
-    margin-left: 573px;
+
+.icon-four h1{
+    font-weight: 400; 
+    color: #442505;
+    font-size: 26px;
+    margin-top: -114px;
+    margin-left: 513px;
 }
-.word-four{
-    margin-left:629px ;
-    margin-top: -29px;
+.icon-four p{
+    margin-left: 536px;
 }
-.neuter{
-    margin-top: 112px;
-    margin-left:-998px ;
+.icon-four .folder {
+    margin-top: -94px;
+    margin-bottom: 28px;
+    margin-left: 122px;
+    color: #E8733A;
 }
-.database{
-    margin-top: 93px;
+.five{
+    margin-top: -81px;
+}
+
+.icon-five h1{  
+    font-weight: 400; 
+    color: #442505;
+    font-size: 26px;
+    margin-left: -445px;
+    margin-top: 96px;
+}
+.icon-five p{  
+  
+    margin-left: -445px;
+    margin-top:26px;
+}
+.icon-five .neuter{
+    margin-left: -884px;
+    margin-top: -199px;
+    margin-bottom: 21px;
+    color: #E8733A;
+}
+ .three{
+    margin-left:-1019px; 
+    margin-top: -88px;   
+}
+.icon-six h1{
+    font-weight: 400; 
+    color: #442505;
+    font-size: 26px;
+    margin-left: 572px;
+    margin-top: -105px;
+}
+.icon-six p{
+    margin-left: 563px;
+}
+.tv{
+    margin-left: 131px;
+    margin-top: -198px;
+    margin-bottom: 27px;
+    color: #E8733A;
+}
+.six{
+    margin-top:-84px ;
 }
