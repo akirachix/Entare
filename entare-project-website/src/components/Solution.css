@@ -1,0 +1,110 @@
+.container{
+    border: 1px solid green;
+    height: 82vh;
+    margin-top:186px ;
+    background-color: #442505;
+
+
+}
+.image-one{
+    margin-top: -75px;
+    margin-left: -6px;    
+}
+
+.image-two{
+    margin-top: -75px;
+    margin-left: 89px;    
+}
+.image-three{
+    margin-top: -75px;
+    margin-left: 87px;    
+}
+.container-two{
+    border: 1px solid green;
+    height: 152vh;
+    margin-top: -97px;
+    background-color:  #F5F5F5;   
+}
+.live{
+    font-size: 26px;
+    margin-left: -843px;
+    color: #FFFFFF;
+}
+.identification{
+    font-size: 26px;
+    margin-top: -52px;
+    color: #FFFFFF;
+}
+.matched{
+    font-size: 26px;
+    margin-top: -75px;
+    color: #FFFFFF;
+    margin-left: 802px;
+}
+hr{
+    width: 533px;
+    color: #E8733A  ;
+}
+.stream{
+    font-size: 23px;
+    margin-top: 48px;
+    margin-left: -596px;
+}
+.video{
+    margin-top: -19px;
+    margin-left: -963px;
+   
+}
+.word-one{
+    margin-top: -73px;
+    margin-left: -526px; 
+}
+.camera{
+    margin-left: 202px;
+    margin-top: -231px;
+    margin-bottom: -5px;
+}
+.match{
+    font-size: 23px;
+    margin-top:-109px ;
+    margin-left: 519px;
+
+}
+.word-two{
+    margin-top: -13px;
+    margin-left: 596px; 
+}
+.icon-three{
+    margin-top: 156px;
+    margin-left: -993px;
+    
+}
+.lion{
+    font-size: 23px;
+    margin-left: 333px;
+    margin-top: -112px;
+}
+.word-three{
+    margin-left:439px ;
+}
+.folder{
+    margin-top: -249px;
+    margin-left: 196px;
+}
+.store{
+    font-size: 23px;
+    margin-top:-77px ;
+    margin-bottom: 62px;
+    margin-left: 573px;
+}
+.word-four{
+    margin-left:629px ;
+    margin-top: -29px;
+}
+.neuter{
+    margin-top: 112px;
+    margin-left:-998px ;
+}
+.database{
+    margin-top: 93px;
+}
