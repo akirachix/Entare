@@ -7,7 +7,10 @@ import {FaVideo,FaCamera,FaMehBlank,FaFolder,FaNeuter, FaTv,IconName  } from 're
 const Solution = ()=>{
     return(
         <div>
+        <h1 className="system ">How the System Works</h1>
+        <hr className="hr-one"/>
     <div className="container">
+
 <div className="images">
     {/* <FaPlus className="plus"/> */}
 <img className="image-one" src={liona}/>
@@ -22,9 +25,9 @@ const Solution = ()=>{
       
     <div className="container-two">
     <h1 className="process">Identification Process</h1>
-    <hr/> 
+    <hr/>
 
-    <div className="icon-one">
+    <div className="icon-one" >
         
     <h1>Live Streaming</h1>
     <p>User will have to start a live stream.

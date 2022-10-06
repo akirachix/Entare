@@ -1,3 +1,14 @@
+.system{
+    margin-left: -799px;
+    margin-top: 42px;
+    font-size: 36px;
+}
+.hr-one{
+    margin-left: 46px;
+    width: 389px;
+  
+    
+}
 .container{
     border: 1px solid  #442505;
     height: 82vh;
@@ -43,7 +54,7 @@
 }
 hr{
     width: 533px;
-    color: #E8733A  ;
+   
 }
 .one{
     margin-left: -492px;
