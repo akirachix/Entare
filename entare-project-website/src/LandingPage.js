@@ -2,7 +2,7 @@ import React from "react";
 import "./LandingPage.css"
 import pic from "./logo.png"
 // import video from "./leo.mp4"
-// import picture from "./lion.jpg"
+import picture from "./lion.jpg"
 
 const LandingPage=()=>{
     return (
