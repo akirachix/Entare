@@ -1,6 +1,6 @@
 import React from "react";
 import pic from "./lionesshug.jpg"
-import "./Technologies.css"
+
 import {FaLowVision,FaPython,FaCloudversify } from 'react-icons/fa';
 
 
