@@ -1,0 +1,82 @@
+nav{
+  top: 0;  
+  color: white;
+}
+
+nav ul li{
+   list-style: none;
+   float:right;
+   margin: 2%;
+   margin-top: -1%;
+   font-size: large;
+   color: white;
+
+}
+.leo{
+    width: 8%;
+    height: 18vh;
+    margin-top: -1.5%;
+    color: white;
+
+}
+.entare{
+    margin-top: -0.5%;
+    color: white;
+}
+
+.line{
+    border-left: 2px solid white;
+    height: 100px;
+    margin-left: 8%;
+    margin-top: -8.5%;
+   
+
+}
+.save{
+    margin-left: 10%;
+    margin-top: -6%;
+    font-size: larger;
+    color: white;
+}
+
+
+.lion{
+    margin-left: 30%;
+    margin-top: 20%;
+    color: white;
+}
+
+.lion button{
+    height: 10vh;
+    width: 15%;
+    background-color: orange;
+    font-size: larger;
+    color: white;
+}
+
+/* .video{
+    margin-left: 5%;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+  
+  
+}
+ .video video{
+    width: 100%;
+    min-height: 100%;
+    position: fixed;
+
+ } */
+ .intro{
+     margin-top: -58%;
+ }
+
+ body{
+     background-image: url('lion.jpg');
+ }
+ .play{
+     color: white;
+     margin-top: 8%;
+     margin-left: 15%;
+ }
