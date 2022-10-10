@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellefair&family=Cabin+Condensed&display=swap');
+*{
+   
+    font-family: 'Bellefair', serif;
+    cursor: pointer;
+}
+.picture{
+   background-color: #FFF1EB;
+}
+.paragraph{
+    background-image: url('images/leo2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100vw;
+    height:50vh;
+}
+.paragraph p{
+    font-size: 30px;
+    padding:50px;
+}
+.Det{
+    display:flex;
+    font-family:'Cabin Condensed', sans-serif;
+    padding-top: 20px;
+}
+.process p{
+     font-size: 25px;
+}
+.details1{
+    border: 1px solid #E8733A;
+    background-color: #E8733A;
+    padding-right: 60px;
+    padding-left: 40px;
+    padding-bottom: 15px;
+    color: #442505;
+    width: 350px;
+    height:78px;
+}
+.details2{
+    border: 1px solid #BD854A;
+    background-color: #BD854A;
+    color: #442505;
+    padding-bottom: 21px;
+    padding-right: 10px;
+    margin-left:10px;
+    width:  500px;
+    height:70px;
+}
+.details3{
+    border: 1px solid #442505;
+    background-color: #442505;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    margin-left:10px;
+    color:#BD854A ;
+    width: 400px;
+    height:70px;
+}
+.details3 p i{
+    color:#BD854A;
+}
+.words{
+    display:inline-flex;
+}
+.fa-solid{
+    width:30px;
+}
+#save{
+    color: #BD854A;
+}
+.pips{
+color: black;
+margin-top: 7%;
+margin-left: 8%;
+font-size: 56px;
+}
+.line{
+    border-bottom:1px solid #E8733A;
+    width:200px;
+    padding-left:240px;
+    margin-left: 104px;
+    margin-top: -86px;
+}
+.Teamtext{
+    display:flex;
+    padding:70px;
+}
+.Teamtext img{
+    padding-left: 40px;
+    margin-top: -49px;
+}
+.Teamtext p{
+    font-size: 30px;
+    margin-top:-19px;  
+    padding-bottom: 122px; 
+    padding-left: 100px;
+}
+.footer{
+    display:flex;
+    background-color: #442505;
+    height:20vh;
+    padding: 10px;
+}
+.logo2{
+    display:inline-block
+}
+.left-logo{
+    display: flex;
+}
+.left-logo p{
+    color:#ffff;
+    font-size: 15px;
+    padding-left: 20px;
+}
+.foot-line{
+    border-left:1px solid #ffff;
+    height:100px;
+   margin-left: 10px;
+    margin-top: 10px;
+}
+.identify p{
+    padding-top: 30px;
+    color:#ffff;
+}
+.rights{
+    color:#ffff;
+    font-size: 20px;
+    padding-top: 23px;
+    margin-left: 163px; 
+
+}
+
+.socials{
+    padding-top: 40px;
+    display:flex;
+    color:#ffff;
+    padding-left: 500px;
+}
+.camera{
+    margin-top: 32px;
+    margin-left:79px ;
+}
+.live{
+    font-size: 21px;
+    margin-top: 41px;
+}
+
+.lightBulb{
+  color:#442505;
+  margin-top: 29px;
+
+  margin-left: 152px;
+}
+.p-light{
+    font-size: 21px;
+    margin-top:36px ;
+}
+.arrow{
+    margin-left: 92px; 
+    margin-top: 28px;
+}
+.save{
+    font-size: 21px;
+    margin-top: 33px;
+}
