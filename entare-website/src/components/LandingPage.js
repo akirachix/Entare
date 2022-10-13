@@ -23,13 +23,13 @@ const LandingPage = ()=>{
                 {/* <img src={pic} className="leo"></img> */}
             
                 <nav>
-                <ul>    
+                <ul >    
                   
                 {/* <li><Link to="/footer">Contact Us</Link></li> */}
-                   <li><Link to="/footer"><a href=""></a> Contact Us</Link></li>
-                   <li><Link to="/footer"><a href=""></a> The Team</Link></li>
-                   <li><Link to="/tech"><a href=""></a> About Entare</Link></li>
-                   <li><Link to="/"><a href=""></a> Home</Link></li>
+                   <li><Link to="/footer"><a href="#"></a> Contact Us</Link></li>
+                   <li><Link to="/footer"><a href="#"></a> The Team</Link></li>
+                   <li><Link to="/tech"><a href="#"></a> About Entare</Link></li>
+                   <li><Link to="/"><a href="#"></a> Home</Link></li>
                    {/* <li><a href="#"></a> </li>
                    <li><a href="#"></a> About Entare</li>
                    <li><a href="#"></a> Home</li> */}

@@ -5,7 +5,7 @@ import {FaLowVision,FaPython,FaCloudversify } from 'react-icons/fa';
 import pic from './images/lion1.png';
 import pic2 from './images/lion2.png';
 import pic3 from './images/lion3.png';
-import {FaVideo,FaCamera,FaMehBlank,FaFolder,FaNeuter, FaTv,FaPlus,FaArrowRight, IconName  } from 'react-icons/fa';
+import {FaVideo,FaCamera,FaMehBlank,FaFolder,FaNeuter, FaTv,FaPlus,FaArrowRight } from 'react-icons/fa';
 import Footer from "./Footer";
 const TechnologiesUsed = ()=>{
     return(
