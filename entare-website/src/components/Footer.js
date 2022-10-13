@@ -29,7 +29,7 @@ const Footer = ()=>{
          <div className="words">
        
         <FaCamera className="camera" size={31}/>
-        <p className="live">live Stream</p>
+        <p className="live">Live Stream</p>
          </div>
         </div>
         <div className="details2">
@@ -42,7 +42,7 @@ const Footer = ()=>{
         <div class="details3">
            <div className="words">
           
-           <FaArrowAltCircleUp className="arrow" size={31} />
+           <FaArrowAltCircleUp className="circ" size={31} />
            <p className="save">Save Details</p>
            </div>
     </div>
@@ -52,12 +52,12 @@ const Footer = ()=>{
     <h1  className="pips">Meet the Team</h1>
       <div className="line"></div>
       <div className="Teamtext">
-          <img src={photo2} width="400px" height="450px"></img><br/>
+          <img src={photo2} width="400px" height="380px"></img><br/>
           <p>These are software developers who have great<br/>
              interest in creating impact in their communities and<br/>
-             they enjoy engaging themselves in addressing real world<br/>
+             they enjoy engaging themselves in addressing real world 
              issues and hence picking interest in solving for Lion <br/>
-             identification in Masai Mara in order to balance the  <br/>
+             identification in Maasai Mara in order to balance the  <br/>
              system<br/></p>
              
       </div>

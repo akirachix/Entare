@@ -5,7 +5,7 @@ import {FaLowVision,FaPython,FaCloudversify } from 'react-icons/fa';
 import pic from './images/lion1.png';
 import pic2 from './images/lion2.png';
 import pic3 from './images/lion3.png';
-import {FaVideo,FaCamera,FaMehBlank,FaFolder,FaNeuter, FaTv,IconName  } from 'react-icons/fa';
+import {FaVideo,FaCamera,FaMehBlank,FaFolder,FaNeuter, FaTv,FaPlus,FaArrowRight, IconName  } from 'react-icons/fa';
 import Footer from "./Footer";
 const TechnologiesUsed = ()=>{
     return(
@@ -24,37 +24,44 @@ const TechnologiesUsed = ()=>{
 <h1>Technologies Used</h1>
 
 </div>
-{/* <div className="icons"> */}
-
+<div class = "techs">
 <div className="computer-vision">
 <FaLowVision className="one"/>
+<div className="cv">
 <h1>Computer Vision</h1>
 <p>To extract unique features of a lion</p>
 </div>
-    
-    <p className="line-1"></p>
+</div>
 
-{/* </div> */}
 
+<div className="line-1"></div>
+
+<div class="tech">
 <div className="python">
 <FaPython className="two"/>
 <h1>Python</h1>
 <p>It is one of the programming <br/>languages used to train our model.</p>
 </div>
-    <p className="line-3"></p>
 
-    <div className="cloud">
-    <FaCloudversify className="three"/>
-    <h1>Deep Learning</h1>
+<div className="line-3"></div>
+
+<div className="cloud">
+<FaCloudversify className="three"/>
+<div className="deep">
+<h1>Deep Learning</h1>
 <p>It is one of the programming <br/>languages used to train our model.</p>
-    </div>
-
+</div>
+</div>
+</div>
+</div>
 
     <h3>How the System Works</h3>
     <p className="line-4"></p>
     <div className="name">
     <img src={pic} className="image-one"/>
+    <FaPlus className="plus" size={45}/>
     <img src={pic2} className="image-two"/>
+    <FaArrowRight className="arrow" size={45}/>
     <img src={pic3} className="image-three"/>
     <p className="one">Live Stream</p>
     <p className="two">Identification Using Whiskers</p>

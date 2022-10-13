@@ -143,6 +143,7 @@ font-size: 56px;
 .live{
     font-size: 21px;
     margin-top: 41px;
+    margin-left: 12px;
 }
 
 .lightBulb{
@@ -154,12 +155,14 @@ font-size: 56px;
 .p-light{
     font-size: 21px;
     margin-top:36px ;
+    margin-left: 12px;
 }
-.arrow{
-    margin-left: 92px; 
-    margin-top: 28px;
+.circ{
+    margin-left: 91px; 
+    margin-top: 28px;   
 }
 .save{
     font-size: 21px;
     margin-top: 33px;
+    margin-left: 12px;
 }
