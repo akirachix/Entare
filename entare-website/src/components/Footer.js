@@ -52,7 +52,8 @@ const Footer = ()=>{
     <h1  className="pips">Meet the Team</h1>
       <div className="line"></div>
       <div className="Teamtext">
-          <img src={photo2} width="400px" height="380px"></img><br/>
+          <img src={photo2} width="400px" height="380px" alt="team"/>
+          <br/>
           <p>These are software developers who have great<br/>
              interest in creating impact in their communities and<br/>
              they enjoy engaging themselves in addressing real world 
@@ -65,7 +66,7 @@ const Footer = ()=>{
      <div className="footer">
     <div className="left-logo">
     <div className="logo2">
-    <img src={logo} style={{width:"100px" , height:"100px"}}></img>
+    <img src={logo} style={{width:"100px" , height:"100px"}} alt="logo"/>
    
     </div>
     <div className="foot-line"></div>
@@ -79,8 +80,8 @@ const Footer = ()=>{
 </div>
 <div className="socials">
      
-     <a href="https://www.linkedin.com/groups/9240225/"><FaLinkedin  className="text-white:#ffff" size={32} id="i"/></a>
-     <a href="https://bit.ly/2wG02Ul"><FaEnvelope className="text-white:#ffff" size={32} id="i"/></a>
+     <a href="https://www.linkedin.com/groups/9240225/"><FaLinkedin size={32} /></a>
+     <a href="https://bit.ly/2wG02Ul"><FaEnvelope size={31} /></a>
      
      
 </div>

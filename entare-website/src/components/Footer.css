@@ -126,7 +126,7 @@ font-size: 56px;
     color:#ffff;
     font-size: 20px;
     padding-top: 23px;
-    margin-left: 163px; 
+    margin-left: 255px; 
 
 }
 
@@ -134,7 +134,12 @@ font-size: 56px;
     padding-top: 40px;
     display:flex;
     color:#ffff;
-    padding-left: 500px;
+
+    padding-left: 370px;
+}
+.socials a{
+    padding-left: 21px;
+    color:#ffff;
 }
 .camera{
     margin-top: 32px;

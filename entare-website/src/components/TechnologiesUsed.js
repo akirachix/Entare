@@ -17,19 +17,21 @@ const TechnologiesUsed = ()=>{
 <p className="line-2"></p>
 <div className="container-words">
     <p>Entare is a system that aims  <br/>to improve the efficiency  <br/>of the lion identification process in  <br/>the Mara Reserve inorder to <br/>protect and balance the ecosytem.The system <br/>is trained to identify individual lions <br/>based on their whisker spot patterns,classify  <br/>and cluster the data collected. </p>
-    <img src={cat} className="leo"></img>
+    <img src={cat} className="leo" alt="lion"/>
 </div>
 
 <div className="tech-used">
 <h1>Technologies Used</h1>
+
+<p className="line-6"></p>
 
 </div>
 <div class = "techs">
 <div className="computer-vision">
 <FaLowVision className="one"/>
 <div className="cv">
-<h1>Computer Vision</h1>
-<p>To extract unique features of a lion</p>
+<h1 className="compu">Computer Vision</h1>
+<p>Open CV is in use to enable<br/> extraction of unique features of a lion.</p>
 </div>
 </div>
 
@@ -39,7 +41,7 @@ const TechnologiesUsed = ()=>{
 <div class="tech">
 <div className="python">
 <FaPython className="two"/>
-<h1>Python</h1>
+<h1 className="py">Python</h1>
 <p>It is one of the programming <br/>languages used to train our model.</p>
 </div>
 
@@ -47,8 +49,9 @@ const TechnologiesUsed = ()=>{
 
 <div className="cloud">
 <FaCloudversify className="three"/>
+
 <div className="deep">
-<h1>Deep Learning</h1>
+<h1 className="learning">Deep Learning</h1>
 <p>It is one of the programming <br/>languages used to train our model.</p>
 </div>
 </div>
@@ -58,11 +61,11 @@ const TechnologiesUsed = ()=>{
     <h3>How the System Works</h3>
     <p className="line-4"></p>
     <div className="name">
-    <img src={pic} className="image-one"/>
+    <img src={pic} className="image-one" alt="img"/>
     <FaPlus className="plus" size={45}/>
-    <img src={pic2} className="image-two"/>
+    <img src={pic2} className="image-two" alt="img"/>
     <FaArrowRight className="arrow" size={45}/>
-    <img src={pic3} className="image-three"/>
+    <img src={pic3} className="image-three" alt="img"/>
     <p className="one">Live Stream</p>
     <p className="two">Identification Using Whiskers</p>
     <p className="three">Matched Lion</p>

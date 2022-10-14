@@ -32,7 +32,7 @@
    
 }
 .container-words{
-    border: 1px solid orange;
+    border: 1px solid #442505 ;
     margin-top: 6%;
     background-color:#442505;
     width: 100%;
@@ -52,25 +52,27 @@
 }
 .tech-used h1{
     font-size: 56px;
-    margin-left: 31%;
+    margin-left: 35%;
     margin-top: 3%;
+    font-weight: 400;
     color: black;
 }
 .computer-vision{
     margin-bottom: -41px;
     margin-top: -11px;
 }
-.computer-vision h1{
-    font-size: 47px;
-    margin-top: -71px;
-   margin-bottom: 1px;
-    margin-left: 8%;       
-    color: black;
+.cv .compu{
+    font-size: 41px;
+    margin-top: -82px;
+   margin-bottom: 19px;
+    margin-left: 9%;       
+    color:#442505;
+    font-weight: 400;
     font-family: 'Bellefair', serif;
 }
 
 .computer-vision .one{
-    margin-top: 3%;
+    margin-top: 1%;
     margin-bottom: 9%;  
     margin-left: 16%;
     color:white;
@@ -79,15 +81,16 @@
     border-radius:50px;
     font-size:89px;
 }
-.computer-vision p{
-
-    margin-bottom:9% ;
-    margin-left: 9%;
+.cv p{
+margin-top: -1.2%;
+    margin-bottom:9.3% ;
+    margin-left: 9.5%;
     font-size: 21px;
 }
 .cv{
     margin-bottom: 81px;
 }
+
 .line-1{
     border-left: 1px solid black;
     height: 299px;
@@ -95,11 +98,16 @@
     margin-top:-28.5%;
 }
 .python{
-    margin-top: -1%; 
+    margin-top: 3%; 
 }
-/* .python{
-    margin-top: 1%;
-    margin-right: -2%; */
+.python .py{
+    color:#442505;
+    font-size: 41px;
+    font-weight: 400;
+    padding-bottom: 23px;
+    padding-top: 19px;
+}
+
 .tech{
     margin-top: 81px;
 }
@@ -110,7 +118,7 @@
 
 .python .two{
     margin-left: 45%;
-    margin-top: -28%;
+    margin-top: -29%;
     margin-bottom: 62%;
     color:white;
     border:solid 1px yellow ;
@@ -122,13 +130,13 @@
 .python h1{
     font-size: 46px;
     color: black;
-    margin-top: -61%;
+    margin-top: -62%;
     margin-left: 45%;
 }
 
 .python p{
     margin-left: 41%;
-    margin-top: -2%;
+    margin-top: -3%;
     font-size: 21px;
 }
 .line-3{
@@ -138,8 +146,20 @@
     margin-top: -32%;
    
 }
-.deep{
-    margin-top: 22px;
+
+.deep .learning{
+    font-weight: 400;
+    color:#442505;  
+    margin-top: -39.5%;
+}
+
+
+h3{
+    font-size: 56px;
+    margin-left: 35%;
+    margin-top: 3%;
+    font-weight: 400;
+    color: black;
 }
 .cloud{
     margin-top: -1%;
@@ -251,9 +271,18 @@ h3{
 .line-5{
     border-bottom: 2px solid #E8733A;
     height: 273px;
-    margin-left: 22%;
+    margin-left: 35%;
     margin-top: -25%;
-    width: 44%;
+    width: 29%;
+    /* padding-top: 21px;
+    padding-left: 91px; */
+}
+.line-6{
+    border-bottom: 2px solid #E8733A;
+    height: 273px;
+    margin-left: 36%;
+    margin-top: -23%;
+    width: 29%;
 }
 .icon-one h1 {
     color: #442505;
@@ -373,7 +402,18 @@ h3{
     margin-bottom: 42px;
     color: #E8733A;
 }
-
+.process{
+    font-size: 56px;
+    margin-left: 35%;
+    margin-top: 4%;
+    font-weight: 400;
+    color: black;
+}
+.line-5{
+    padding-top: 21px;
+    padding-left: 71px;
+    /* margin-top: 1px; */
+}
 /* .live{
     font-size: 26px;
     margin-left: -843px;
