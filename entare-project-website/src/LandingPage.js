@@ -11,7 +11,7 @@ const LandingPage=()=>{
             <source src={video} type="video/mp4" className="video"></source>
               </video>    */}
         
-        <div>
+        <div className="image">
         
           
             <nav>

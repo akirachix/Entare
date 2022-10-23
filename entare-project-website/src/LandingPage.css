@@ -72,11 +72,14 @@ nav ul li{
      margin-top: -58%;
  }
 
- body{
+ /* body{
      background-image: url('lion.jpg');
- }
+ } */
  .play{
      color: white;
      margin-top: 8%;
      margin-left: 15%;
+ }
+ .image{
+     background-image: url('lion.jpg');
  }
